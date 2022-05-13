@@ -1,0 +1,29 @@
+{
+  "name": "07-clean-blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/celebiFatih/nodejs.git"
+  },
+  "author": "Fatih Çelebi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/celebiFatih/nodejs/issues"
+  },
+  "homepage": "https://github.com/celebiFatih/nodejs#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.16",
+    "prettier": "^2.6.2"
+  },
+  "dependencies": {
+    "ejs": "^3.1.7",
+    "express": "^4.18.1",
+    "method-override": "^3.0.0",
+    "mongoose": "^6.3.3"
+  }
+}
